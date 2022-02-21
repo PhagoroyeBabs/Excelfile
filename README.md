@@ -5,7 +5,8 @@
 ## Working on Movies Ratings in the period of 100 years (1916 - 2016) across 62 Countries
 
 ### Data Source
-The Data used in this Analysis is gotten from [IMDb] : https://www.imdb.com/
+The Data used in this Analysis is gotten from [IMDb](https://www.imdb.com/)
+-----------------------
 
 **Find attached Excel Work book which contain the Raw Xlxs File, Cleaned Data and also the Analysis**
 - [x] Infographic *PPT file*
@@ -16,3 +17,10 @@ The Data used in this Analysis is gotten from [IMDb] : https://www.imdb.com/
 > I made use of Power query, Power pivot, Excel Advance Formular, Charts.
 
 
+# Table of contents
+- [Project Title](#House-Price-Prediction-Model)
+- [Table of contents](#table-of-contents)
+- [Project Process](#Project-Process)
+- [Files Description](#Files-Description)
+- [Technologies Used](Technologies-Used)
+- [Deployment and Application](#Deployment-and-Application)
