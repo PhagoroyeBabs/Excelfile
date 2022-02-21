@@ -36,7 +36,7 @@ The Data used in this Analysis is gotten from [IMDb](https://www.imdb.com/)
 
 ### Tools Used
 
->I made use of Power query, Power pivot, Excel Advance Formular, Charts.
+> `I made use of Power query, Power pivot, Excel Advance Formular, Charts`.
 
 
 
