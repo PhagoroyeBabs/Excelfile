@@ -23,8 +23,8 @@ Over the century, movies have been a source of entertainment gracing both homes 
 * [movie-meta-data.csv](https://github.com/Phagoroye/Excelfile/blob/main/movie-metadata.csv): Data
 * [Movie-metadata22.xlsx](movie-metadata22.xlsx) : Excelwork book with cleaning, manipulation and analysis of data
 * [Requirements.txt](https://github.com/Phagoroye/Excelfile/blob/main/requirements.txt) : what to consider
-* [Community-project1.pptx](Community Project1.pptx) Visuals in powerpoint
-* [Community-project2.pdf](Community Project2.pdf) the PDF file of the infograph
+* [Community-project1.pptx](Community Project1.pptx): Visuals in powerpoint
+* [Community-project2.pdf](Community Project2.pdf) : the PDF file of the infograph
 
 ### Data Source
 The Data used in this Analysis is gotten from [IMDb](https://www.imdb.com/)
