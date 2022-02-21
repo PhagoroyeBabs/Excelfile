@@ -1,6 +1,6 @@
 # Movie Rating Infographics 
-![GitHub All Releases](https://img.shields.io/github/downloads/):
-![GitHub last commit](https://img.shields.io/github/last-commit/)
+![GitHub All Releases](https://img.shields.io/github/downloads/PhagoroyeBabs/Excelfile/total):
+![GitHub last commit](https://img.shields.io/github/last-commit/PhagoroyeBabs/Excelfile)
 
 ## Working on Movies Ratings in the period of 100 years (1916 - 2016) across 62 Countries
 
