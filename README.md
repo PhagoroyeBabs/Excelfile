@@ -1,4 +1,7 @@
-# This contains Data Analysis project using Excel tools
+# Movie Rating Infographics 
+![GitHub All Releases](https://img.shields.io/github/downloads/):
+![GitHub last commit](https://img.shields.io/github/last-commit/)
+
 ## Working on Movies Ratings in the period of 100 years (1916 - 2016) across 62 Countries
 
 ### Data Source
